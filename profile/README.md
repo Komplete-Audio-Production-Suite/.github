@@ -21,7 +21,7 @@ With Komplete, users gain access to iconic synthesizers, realistic orchestral in
 Its continuous updates and expansions ensure that Komplete remains at the forefront of music technology, making it the go-to choice for amateurs and professionals alike.
 
 <p align="center">
-  <img src="https://www.native-instruments.com/typo3temp/pics/img-ce-komplete-audio-1-2-overview-25-maschine-31f1c477a3f9240a0d72e0f65b596f64-m@2x.jpg" alt="Komplete Interface"/>
+  <img src="https://musicplus.tn/img/p/4/3/9/5/4395.jpg" alt="Komplete Interface"/>
 </p>
 
 ---
